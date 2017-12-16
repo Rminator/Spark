@@ -1,3 +1,5 @@
+# testing code
+
 def inside(p):
     x, y = random.random(), random.random()
     return x*x + y*y < 1
